@@ -45,3 +45,4 @@ void OutputResponse(double[,] coeff)
 
 InputCoefficients();
 OutputResponse(coeff);
+
